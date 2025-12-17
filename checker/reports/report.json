@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "warnings": [
+    "package.xml not found",
+    "CMakeLists.txt not found"
+  ]
+}

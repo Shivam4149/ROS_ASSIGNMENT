@@ -1,8 +1,8 @@
 - ROS Code Checker and Simulation Preview Too
 
 -  Overview
-This project implements a **ROS/ROS2 code validation tool** with a **minimal web interface**.  
-The goal of the assignment is to design a **tool**, not a full robotic system.
+This project implements a ROS/ROS2 code validation tool** with a minimal web interface.  
+The goal of the assignment is to design a tool, not a full robotic system.
 
 The system allows a user to:
 - Upload a ROS package as a ZIP file
